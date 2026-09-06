@@ -1,4 +1,4 @@
-# [![Formine](https://cdn.corenexis.com/f/yk1FtZfCEdE.png)]
+# ![Formine](https://cdn.corenexis.com/f/yk1FtZfCEdE.png)
 
 Formine — an original battle-royale style prototype inspired by the genre. Built with Godot 4 (prototype).
 
